@@ -1,7 +1,7 @@
 {
-  "name": "cd nu	",
-  "version": "1.0.0",
-  "description": "ls -l",
+  "name": "nuxt7-app",
+  "version": "0.0.1",
+  "description": "app to test some concepts",
   "private": true,
   "scripts": {
     "dev": "nuxt",

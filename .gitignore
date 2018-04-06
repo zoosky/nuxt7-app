@@ -21,3 +21,4 @@ vscode
 # Service worker generated files
 sw.*
 workbox-*
+yarn-error.log
