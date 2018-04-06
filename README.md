@@ -1,10 +1,6 @@
-# cd nu	
-
-> ls -l
-
 ## Build Setup
 
-``` bash
+```bash
 # Install dependencies
 $ yarn install
 
