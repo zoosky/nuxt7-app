@@ -1,5 +1,7 @@
 # cd nu	
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zoosky/nuxt7-app.svg)](https://greenkeeper.io/)
+
 > ls -l
 
 ## Build Setup
